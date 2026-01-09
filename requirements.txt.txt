@@ -1,0 +1,6 @@
+Python
+Google Collab
+CNN
+tensorflow
+numpy
+matplotlib
