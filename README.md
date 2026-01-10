@@ -29,7 +29,7 @@ For this, the MNIST dataset is used, which contains images of digits from 0 to 9
 3. Run the `main.py` file.
 4. The model will train and show the prediction output.
 
-## Short Explanation (Half Page)
+## Short Explanation 
 In this project, I created a simple AI-based image classification program using Python.
 The main goal of this assignment is to understand how images can be processed and classified using machine learning.
 
